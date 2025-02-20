@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+form .form-group {
+    margin-bottom: 15px;
+}
+
+form button {
+    background-color: #007bff;
+    border: none;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+    section {
+        padding: 30px 0;
+    }
+}
